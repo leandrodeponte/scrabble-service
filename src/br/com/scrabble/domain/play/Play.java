@@ -11,7 +11,6 @@ public class Play {
     private List<Piece> píeces;
     private Direction direction;
     private User user;
-
     private int score;
     private PlayStatus status;
 }
